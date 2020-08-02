@@ -39,7 +39,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QLineEdit" name="lineEdit"/>
+         <widget class="QLineEdit" name="edtName"/>
         </item>
        </layout>
       </item>
@@ -59,7 +59,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QLineEdit" name="lineEdit_2"/>
+         <widget class="QLineEdit" name="edtPath"/>
         </item>
        </layout>
       </item>
@@ -79,7 +79,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QLineEdit" name="lineEdit_3"/>
+         <widget class="QLineEdit" name="edtUrl"/>
         </item>
        </layout>
       </item>
@@ -99,7 +99,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QLineEdit" name="lineEdit_4"/>
+         <widget class="QLineEdit" name="edtRemark"/>
         </item>
        </layout>
       </item>
